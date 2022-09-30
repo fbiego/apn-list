@@ -36,5 +36,5 @@ with open("README.md", "w") as f:
     f.write(str(apns) + " out of "+ str(count) + " apns available from "+ str(len(countries))+ " countries\n")
     f.write("## Countries\n")
     for cn in countries:
-        f.write("- ["+ str(countries[cn]["name"]) + "](https://github.com/fbiego/apn-list/blob/main/apn.h#L"+ str(countries[cn]["start"])+"-L"+str(countries[cn]["end"])+")\n")
+        f.write("- [`"+ str(countries[cn]["name"]) + "` "+str(countries[cn]["end"] - countries[cn]["start"])+" apns](https://github.com/fbiego/apn-list/blob/main/apn.h#L"+ str(countries[cn]["start"])+"-L"+str(countries[cn]["end"])+")\n")
     f.close()
