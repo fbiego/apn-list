@@ -12,9 +12,6 @@ typedef struct {
 Apn_Settings_t;
 
 Apn_Settings_t apn_list[] = {
-  {.mcc=289, .mnc=88, .code=7, .iso="ge", .country="Abkhazia", .network="A-Mobile", .apn="", .user="", .pass=""},
-  {.mcc=289, .mnc=68, .code=7, .iso="ge", .country="Abkhazia", .network="A-Mobile", .apn="", .user="", .pass=""},
-  {.mcc=289, .mnc=67, .code=7, .iso="ge", .country="Abkhazia", .network="Aquafon", .apn="", .user="", .pass=""},
   {.mcc=412, .mnc=01, .code=93, .iso="af", .country="Afghanistan", .network="AWCC", .apn="", .user="", .pass=""},
   {.mcc=412, .mnc=50, .code=93, .iso="af", .country="Afghanistan", .network="Etisalat ", .apn="", .user="", .pass=""},
   {.mcc=412, .mnc=30, .code=93, .iso="af", .country="Afghanistan", .network="Etisalat ", .apn="", .user="", .pass=""},
@@ -700,6 +697,9 @@ Apn_Settings_t apn_list[] = {
   {.mcc=607, .mnc=03, .code=220, .iso="gm", .country="Gambia", .network="Comium", .apn="", .user="", .pass=""},
   {.mcc=607, .mnc=01, .code=220, .iso="gm", .country="Gambia", .network="Gamcel", .apn="", .user="", .pass=""},
   {.mcc=607, .mnc=04, .code=220, .iso="gm", .country="Gambia", .network="QCell", .apn="", .user="", .pass=""},
+  {.mcc=289, .mnc=88, .code=7, .iso="ge", .country="Abkhazia", .network="A-Mobile", .apn="", .user="", .pass=""},
+  {.mcc=289, .mnc=68, .code=7, .iso="ge", .country="Abkhazia", .network="A-Mobile", .apn="", .user="", .pass=""},
+  {.mcc=289, .mnc=67, .code=7, .iso="ge", .country="Abkhazia", .network="Aquafon", .apn="", .user="", .pass=""},
   {.mcc=282, .mnc=04, .code=995, .iso="ge", .country="Georgia", .network="Beeline", .apn="", .user="", .pass=""},
   {.mcc=282, .mnc=01, .code=995, .iso="ge", .country="Georgia", .network="Geocell", .apn="", .user="", .pass=""},
   {.mcc=282, .mnc=07, .code=995, .iso="ge", .country="Georgia", .network="GlobalCell", .apn="", .user="", .pass=""},
