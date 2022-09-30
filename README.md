@@ -3,11 +3,10 @@ List of apn settings
 
 [![Script](https://github.com/fbiego/apn-list/actions/workflows/main.yml/badge.svg)](https://github.com/fbiego/apn-list/actions/workflows/main.yml)
 ## Status
-| Description | Count |
-| --- | --- |
-| Available | 5 |
-| Total | 2561 |
-| Countries | 222|
+| Description | Available | Total |
+| --- | --- | --- |
+| APN Settings | 5 | 2561 |
+| Countries | 1 | 222 |
 
 ## Contributing
 - Add apn settings on the existing list then modify the apn, user & pass or
