@@ -30,7 +30,6 @@ for line in lines:
 
 print(count)
 print(apns)
-
 print(len(countries))
 
 with open("README.md", "w") as f:
