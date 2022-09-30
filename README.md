@@ -1,8 +1,13 @@
 # apn-list
 List of apn settings
 
-## status
-5 out of 2561 apns available from 222 countries
+## Status
+| Description | Count |
+| --- | --- |
+| Available | 5 |
+| Total | 2561 |
+| Countries | 222|
+
 ## Countries
 | Country | APNs |
 | --- | --- |
