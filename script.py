@@ -30,11 +30,11 @@ print(apns)
 print(len(countries))
 
 with open("README.md", "w") as f:
-    f.write("# apni-list\n")
+    f.write("# apn-list\n")
     f.write("List of apn settings\n\n")
     f.write("## status\n")
     f.write(str(apns) + " out of "+ str(count) + " apns available from "+ str(len(countries))+ " countries\n")
     f.write("## Countries\n")
     for cn in countries:
-        f.write("-["+ str(countries[cn]["name"]) + "](https://github.com/fbiego/apn-list/blob/main/apn.h#L"+ str(countries[cn]["start"])+"-L"+str(countries[cn]["end"])+")\n")
+        f.write("- ["+ str(countries[cn]["name"]) + "](https://github.com/fbiego/apn-list/blob/main/apn.h#L"+ str(countries[cn]["start"])+"-L"+str(countries[cn]["end"])+")\n")
     f.close()
