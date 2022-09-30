@@ -1,6 +1,7 @@
 # apn-list
 List of apn settings
 
+[![Script](https://github.com/fbiego/apn-list/actions/workflows/main.yml/badge.svg)](https://github.com/fbiego/apn-list/actions/workflows/main.yml)
 ## Status
 | Description | Count |
 | --- | --- |
