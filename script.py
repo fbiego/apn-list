@@ -35,6 +35,7 @@ print(len(countries))
 with open("README.md", "w") as f:
     f.write("# apn-list\n")
     f.write("List of apn settings\n\n")
+    f.write("[![Script](https://github.com/fbiego/apn-list/actions/workflows/main.yml/badge.svg)](https://github.com/fbiego/apn-list/actions/workflows/main.yml)\n")
     f.write("## Status\n")
     f.write("| Description | Count |\n")
     f.write("| --- | --- |\n")
