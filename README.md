@@ -12,7 +12,6 @@ List of apn settings
 - Add apn settings on the existing list, modify the apn, user & pass or
 - Add new apn settings below the country
 
-`{.mcc=412, .mnc=01, .code=93, .iso="af", .country="Afghanistan", .network="AWCC", .apn="", .user="", .pass=""},`
 - Submit a PR
 
 NB: Do not run the python script

@@ -42,7 +42,7 @@ with open("README.md", "w") as f:
     f.write("## Contributing\n")
     f.write("- Add apn settings on the existing list, modify the apn, user & pass or\n")
     f.write("- Add new apn settings below the country\n\n")
-    f.write('`{.mcc=412, .mnc=01, .code=93, .iso="af", .country="Afghanistan", .network="AWCC", .apn="", .user="", .pass=""},`\n')
+    #f.write('`{.mcc=412, .mnc=01, .code=93, .iso="af", .country="Afghanistan", .network="AWCC", .apn="", .user="", .pass=""},`\n')
     f.write("- Submit a PR\n\n")
     f.write("NB: Do not run the python script\n\n")
     f.write("## Countries\n")
