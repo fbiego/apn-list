@@ -5,8 +5,8 @@ List of apn settings
 ## Status
 | Description | Available | Total |
 | --- | --- | --- |
-| APN Settings | 6 | 2561 |
-| Countries | 2 | 222 |
+| APN Settings | 8 | 2561 |
+| Countries | 3 | 222 |
 
 ## Contributing
 - Add apn settings on the existing list then modify the apn, user & pass or
@@ -96,7 +96,7 @@ NB: Do not run the python script
 | [`Gambia`](https://github.com/fbiego/apn-list/blob/main/apn.h#L696-L699) | 0 | 4 |
 | [`Georgia`](https://github.com/fbiego/apn-list/blob/main/apn.h#L703-L713) | 0 | 11 |
 | [`Germany`](https://github.com/fbiego/apn-list/blob/main/apn.h#L714-L746) | 0 | 33 |
-| [`Ghana`](https://github.com/fbiego/apn-list/blob/main/apn.h#L747-L755) | 0 | 9 |
+| [`Ghana`](https://github.com/fbiego/apn-list/blob/main/apn.h#L747-L755) | 2 | 9 |
 | [`Gibraltar`](https://github.com/fbiego/apn-list/blob/main/apn.h#L756-L760) | 0 | 5 |
 | [`Greece`](https://github.com/fbiego/apn-list/blob/main/apn.h#L761-L783) | 0 | 23 |
 | [`Greenland`](https://github.com/fbiego/apn-list/blob/main/apn.h#L784-L784) | 0 | 1 |
