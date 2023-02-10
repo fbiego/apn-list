@@ -495,7 +495,7 @@ Apn_Settings_t apn_list[] = {
   {.mcc=238, .mnc=02, .code=45, .iso="dk", .country="Denmark", .network="Telenor", .apn="", .user="", .pass=""},
   {.mcc=238, .mnc=96, .code=45, .iso="dk", .country="Denmark", .network="Telia", .apn="", .user="", .pass=""},
   {.mcc=238, .mnc=20, .code=45, .iso="dk", .country="Denmark", .network="Telia", .apn="", .user="", .pass=""},
-  {.mcc=238, .mnc=30, .code=45, .iso="dk", .country="Denmark", .network="Telia", .apn="", .user="", .pass=""},
+  {.mcc=238, .mnc=30, .code=45, .iso="dk", .country="Denmark", .network="Telia", .apn="www.internet.mtella.dk", .user="", .pass=""},
   {.mcc=238, .mnc=16, .code=45, .iso="dk", .country="Denmark", .network="Tismi", .apn="", .user="", .pass=""},
   {.mcc=238, .mnc=25, .code=45, .iso="dk", .country="Denmark", .network="Viahub", .apn="", .user="", .pass=""},
   {.mcc=238, .mnc=08, .code=45, .iso="dk", .country="Denmark", .network="Voxbone / Bandwidth", .apn="", .user="", .pass=""},
