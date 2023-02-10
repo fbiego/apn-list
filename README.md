@@ -5,8 +5,8 @@ List of apn settings
 ## Status
 | Description | Available | Total |
 | --- | --- | --- |
-| APN Settings | 5 | 2561 |
-| Countries | 1 | 222 |
+| APN Settings | 6 | 2561 |
+| Countries | 2 | 222 |
 
 ## Contributing
 - Add apn settings on the existing list then modify the apn, user & pass or
@@ -73,7 +73,7 @@ NB: Do not run the python script
 | [`Cyprus`](https://github.com/fbiego/apn-list/blob/main/apn.h#L429-L434) | 0 | 6 |
 | [`Czech Republic`](https://github.com/fbiego/apn-list/blob/main/apn.h#L435-L466) | 0 | 32 |
 | [`Democratic Republic of Congo`](https://github.com/fbiego/apn-list/blob/main/apn.h#L467-L474) | 0 | 8 |
-| [`Denmark`](https://github.com/fbiego/apn-list/blob/main/apn.h#L475-L501) | 0 | 27 |
+| [`Denmark`](https://github.com/fbiego/apn-list/blob/main/apn.h#L475-L501) | 1 | 27 |
 | [`Djibouti`](https://github.com/fbiego/apn-list/blob/main/apn.h#L502-L502) | 0 | 1 |
 | [`Dominica`](https://github.com/fbiego/apn-list/blob/main/apn.h#L503-L505) | 0 | 3 |
 | [`Dominican Republic`](https://github.com/fbiego/apn-list/blob/main/apn.h#L506-L509) | 0 | 4 |
