@@ -5,8 +5,8 @@ List of apn settings
 ## Status
 | Description | Available | Total |
 | --- | --- | --- |
-| APN Settings | 8 | 2561 |
-| Countries | 3 | 222 |
+| APN Settings | 11 | 2561 |
+| Countries | 4 | 222 |
 
 ## Contributing
 - Add apn settings on the existing list then modify the apn, user & pass or
@@ -198,7 +198,7 @@ NB: Do not run the python script
 | [`San Marino`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1820-L1821) | 0 | 2 |
 | [`Sao Tome and Principe`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1822-L1823) | 0 | 2 |
 | [`Saudi Arabia`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1828-L1833) | 0 | 6 |
-| [`Senegal`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1834-L1839) | 0 | 6 |
+| [`Senegal`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1834-L1839) | 3 | 6 |
 | [`Serbia`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1840-L1845) | 0 | 6 |
 | [`Seychelles`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1846-L1849) | 0 | 4 |
 | [`Sierra Leone`](https://github.com/fbiego/apn-list/blob/main/apn.h#L1850-L1859) | 0 | 10 |
