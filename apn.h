@@ -1834,7 +1834,7 @@ Apn_Settings_t apn_list[] = {
   {.mcc=608, .mnc=299, .code=221, .iso="sn", .country="Senegal", .network="2s Mobile", .apn="", .user="", .pass=""},
   {.mcc=608, .mnc=03, .code=221, .iso="sn", .country="Senegal", .network="Expresso", .apn="expresso", .user="", .pass=""},
   {.mcc=608, .mnc=02, .code=221, .iso="sn", .country="Senegal", .network="Free", .apn="internet", .user="", .pass=""},
-  {.mcc=608, .mnc=04, .code=221, .iso="sn", .country="Senegal", .network="HAYO", .apn="", .user="internet", .pass=""},
+  {.mcc=608, .mnc=04, .code=221, .iso="sn", .country="Senegal", .network="HAYO", .apn="internet", .user="", .pass=""},
   {.mcc=608, .mnc=01, .code=221, .iso="sn", .country="Senegal", .network="Orange", .apn="internet", .user="", .pass=""},
   {.mcc=608, .mnc=299, .code=221, .iso="sn", .country="Senegal", .network="Promobile", .apn="", .user="", .pass=""},
   {.mcc=220, .mnc=11, .code=381, .iso="rs", .country="Serbia", .network="Globaltel", .apn="", .user="", .pass=""},
